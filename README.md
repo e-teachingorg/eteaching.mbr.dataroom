@@ -32,8 +32,9 @@ eggs +=
 eteaching.mbr.dataroom = git https://github.com/e-teachingorg/eteaching.mbr.dataroom.git
 ```
 
-
 and then running ``bin/buildout``
+
+Create a credentials.py for your credentials. Use credentialsexample.py as template.
 
 ## Authors
 
