@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer
+      name="eteaching.mbr.dataroom"
+      interface="eteaching.mbr.dataroom.interfaces.IEteachingMbrDataroomLayer"
+      />
+</layers>

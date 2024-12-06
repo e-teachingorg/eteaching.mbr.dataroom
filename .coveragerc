@@ -1,0 +1,6 @@
+[report]
+include =
+    src/eteaching.mbr/*
+omit =
+    */test*
+    */upgrades/*
